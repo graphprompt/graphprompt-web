@@ -37,9 +37,6 @@ the superiority of our method.
 - We introduce the meta-learning technique to our graph prompting study so that we can learn a reliable prompt for improving the multi-task performance
 - We carefully analyze why our method works and confirm the effectiveness of our method via extensive experiments
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
 
 
 ## Examples
