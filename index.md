@@ -1,5 +1,5 @@
 ---
-title: All in One: Multi-Task Prompting for Graph Neural Networks
+title: All in One: Multi-Task Prompting for GNN
 feature_text: |
   ## Multi-Task Prompting
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
