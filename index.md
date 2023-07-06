@@ -2,9 +2,9 @@
 title: All in One —— Multi-Task Prompting for GNN
 feature_text: |
   ## Multi-Task Prompting
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  We propose a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Allinone is  a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. "
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
