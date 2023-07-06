@@ -10,7 +10,26 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
-
+## Abstract
+Recently, “pre-training and fine-tuning” has been adopted as a standard workflow for many graph tasks since it can take general graph
+knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
+graph level are far diversified, making the pre-training pretext often
+incompatible with these multiple tasks. This gap may even cause a
+“negative transfer” to the specific application, leading to poor results.
+Inspired by the prompt learning in natural language processing
+(NLP), which has presented significant effectiveness in leveraging
+prior knowledge for various NLP tasks, we study the prompting
+topic for graphs with the motivation of filling the gap between pre-trained models and various graph tasks. In this paper, we propose a
+novel multi-task prompting method for graph models. Specifically,
+we first unify the format of graph prompts and language prompts
+with the prompt token, token structure, and inserting pattern. In
+this way, the prompting idea from NLP can be seamlessly introduced to the graph area. Then, to further narrow the gap between
+various graph tasks and state-of-the-art pre-training strategies, we
+further study the task space of various graph applications and re-formulate downstream problems to the graph-level task. Afterward,
+we introduce meta-learning to efficiently learn a better initialization for the multi-task prompt of graphs so that our prompting
+framework can be more reliable and general for different tasks. We
+conduct extensive experiments, results from which demonstrate
+the superiority of our method.
 ## Contributions
 
 - We unify the prompt format in the language area and graph area, and further propose an effective graph prompt for multi-task settings
