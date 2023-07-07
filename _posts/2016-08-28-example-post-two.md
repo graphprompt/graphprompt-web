@@ -1,10 +1,11 @@
 ---
-title: History of the Alembic
+title: Prompt Graph Design
 categories:
 - History
 - External sources
 feature_text: |
-  The History of the Alembic tool
+  we first unify the format of graph prompts and language prompts with the prompt token, token structure, and inserting pattern. In this way, the prompting idea from 
+  NLP can be seamlessly introduced to the graph area.
 ---
 
 Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
