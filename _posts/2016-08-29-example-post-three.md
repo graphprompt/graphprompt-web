@@ -1,9 +1,12 @@
 ---
-title: Description of a Pot Still
+title: A new workflow driven by Prompt
 categories:
 - General
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+  "pre-training and fine-tuning" has been adopted as a standard workflow for many graph tasks since it can take general graph
+knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
+graph level are far diversified, making the pre-training pretext often
+incompatible with these multiple tasks.
 feature_text: |
   ## The Pot Still
   The modern pot still is a descendant of the alembic, an earlier distillation device
