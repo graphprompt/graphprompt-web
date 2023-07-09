@@ -1,8 +1,7 @@
 ---
 title: Prompt Graph Design
 categories:
-- History
-- External sources
+- Method II
 feature_text: |
   we first unify the format of graph prompts and language prompts with the prompt token, token structure, and inserting pattern. In this way, the prompting idea from 
   NLP can be seamlessly introduced to the graph area.
