@@ -1,8 +1,7 @@
 ---
 title: Reformulating Downstream Tasks
 categories:
-- General
-- External sources
+- Method I
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
