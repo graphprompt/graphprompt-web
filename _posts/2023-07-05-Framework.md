@@ -7,8 +7,6 @@ excerpt: |
   knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
   graph level are far diversified, making the pre-training pretext often
   incompatible with these multiple tasks.
-feature_text: |
-  ## Pre-training and Fine-tuning
 ---
 ![Pre-training and Fine-tuning](/assets/1.png)
  
