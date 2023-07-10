@@ -9,8 +9,6 @@ excerpt: |
   incompatible with these multiple tasks.
 feature_text: |
   ## Pre-training and Fine-tuning
-feature_image: "/assets/1.png"
-image: "/assets/1.png"
 ---
 ![Pre-training and Fine-tuning](/assets/1.png)
  "pre-training and fine-tuning" has been adopted as a standard workflow for many graph tasks since it can take general graph
