@@ -1,5 +1,5 @@
 ---
-title: All in One —— Multi-Task Prompting for GNN
+title: All in One —— Multi-Task Prompting for GN
 feature_text: |
   ## Multi-Task Prompting
   We propose a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
