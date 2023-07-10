@@ -43,3 +43,14 @@ with few-shot settings. We propose a novel method to reformulate
 different-level tasks to unified ones and further design an effective
 prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
 effectiveness of our framework.
+## Acknowledgements
+This research is supported in part by project #MMT-p2-23 of the
+Shun Hing Institute of Advanced Engineering, The Chinese University of Hong Kong, by grants from the Research Grant Council of
+the Hong Kong Special Administrative Region, China (No. CUHK
+14217622), NSFC (No. 61972087, No. 62206067, No. U1936205, No.
+62172300, No. 62202336), Guangzhou-HKUST(GZ) Joint Funding
+Scheme (No. 2023A03J0673), National Key R&D Program of China
+(No. 2022YFB3104300, No. 2021YFC3300300), the Fundamental Research Funds for the Central Universities (No. ZD-21-202101), and
+Open Research Projects of Zhejiang Lab (No. 2021KH0AB04). The
+first author, Dr. Xiangguo Sun, in particular, wants to thank
+his parents for their kind support during his tough period.
