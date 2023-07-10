@@ -37,5 +37,9 @@ the superiority of our method.
 - We introduce the meta-learning technique to our graph prompting study so that we can learn a reliable prompt for improving the multi-task performance
 - We carefully analyze why our method works and confirm the effectiveness of our method via extensive experiments
 
-
-
+## Conclusion
+In this paper, we study the multi-task problem of graph prompts
+with few-shot settings. We propose a novel method to reformulate
+different-level tasks to unified ones and further design an effective
+prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
+effectiveness of our framework.
