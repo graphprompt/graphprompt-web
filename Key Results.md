@@ -1,6 +1,7 @@
-<div align="center">
+
 
 ## Superior Performance
+<div align="center">
 <img src="/assets/6.png" />
 <img src="/assets/5.png" />
 <img src="/assets/7.png" />
@@ -9,18 +10,20 @@
 
 <p style="text-align:justify">The proposed method outperforms existing methods across a variety of graph tasks. This includes node classification, graph classification, and link prediction tasks. The results indicate that the proposed method can effectively generalize across different tasks and improve the performance of GNNs.</p>
 
-<div align="center">
+
 
 ## Effectiveness of Meta-learning
+<div align="center">
 <img src="/assets/11.png" />
 
 </div>
 
 <p style="text-align:justify">The results show that the introduction of meta-learning significantly improves the performance of the proposed method. This suggests that meta-learning can effectively learn better prompts for multi-task settings.</p>
 
-<div align="center">
+
 
 ## Robustness and Flexibility
+<div align="center">
 <img src="/assets/8.png" />
 <img src="/assets/9.png" />
 
@@ -28,9 +31,10 @@
 
 <p style="text-align:justify">The proposed method demonstrates robustness and flexibility across different graph structures and sizes. This indicates that the method can adapt to various graph tasks and is not limited by the specific characteristics of the graphs.</p>
 
-<div align="center">
+
 
 ## Efficiency of Learning
+<div align="center">
 <img src="/assets/10.png" />
 
 </div>
