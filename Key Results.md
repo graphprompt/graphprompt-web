@@ -8,10 +8,11 @@ The results show that the introduction of meta-learning significantly improves t
 
 ## Robustness and Flexibility
 ![g](/assets/8.png)
+![g](/assets/9.png)
 The proposed method demonstrates robustness and flexibility across different graph structures and sizes. This indicates that the method can adapt to various graph tasks and is not limited by the specific characteristics of the graphs.
 
 ## Efficiency of Learning
-![g](/assets/9.png)
+![g](/assets/10.png)
 
 The learning process of the proposed method is efficient. The authors show that the method can quickly converge to a good solution, which suggests that it can be applied to large-scale graph tasks.
 
