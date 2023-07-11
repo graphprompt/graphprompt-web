@@ -38,11 +38,11 @@ the superiority of our method.
 - We carefully analyze why our method works and confirm the effectiveness of our method via extensive experiments
 
 ## Conclusion
-In this paper, we study the multi-task problem of graph prompts
+<p style="text-align:justify">In this paper, we study the multi-task problem of graph prompts
 with few-shot settings. We propose a novel method to reformulate
 different-level tasks to unified ones and further design an effective
-prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
-effectiveness of our framework.
+prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
+effectiveness of our framework.</p>
 ## Acknowledgements
 This research is supported in part by project #MMT-p2-23 of the
 Shun Hing Institute of Advanced Engineering, The Chinese University of Hong Kong, by grants from the Research Grant Council of
