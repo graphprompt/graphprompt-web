@@ -1,7 +1,6 @@
 The paper presents several key results from the experiments conducted to validate their proposed method for multi-task prompting in Graph Neural Networks (GNNs). Here are the main findings:
 
 ## Superior Performance
-
 ![g](/assets/6.png)
 ![g](/assets/5.png)
 ![g](/assets/7.png)
