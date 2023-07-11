@@ -1,9 +1,13 @@
 The paper presents several key results from the experiments conducted to validate their proposed method for multi-task prompting in Graph Neural Networks (GNNs). Here are the main findings:
 
 ## Superior Performance
+![g](/assets/7.png)
+![g](/assets/6.png)
+![g](/assets/5.png)
 The proposed method outperforms existing methods across a variety of graph tasks. This includes node classification, graph classification, and link prediction tasks. The results indicate that the proposed method can effectively generalize across different tasks and improve the performance of GNNs.
 
 ## Effectiveness of Meta-learning
+![g](/assets/11.png)
 The results show that the introduction of meta-learning significantly improves the performance of the proposed method. This suggests that meta-learning can effectively learn better prompts for multi-task settings.
 
 ## Robustness and Flexibility
