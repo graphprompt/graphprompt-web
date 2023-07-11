@@ -1,6 +1,7 @@
 The paper presents several key results from the experiments conducted to validate their proposed method for multi-task prompting in Graph Neural Networks (GNNs). Here are the main findings:
 
 ## Superior Performance
+
 ![g](/assets/6.png)
 ![g](/assets/5.png)
 ![g](/assets/7.png)
@@ -13,7 +14,9 @@ The results show that the introduction of meta-learning significantly improves t
 
 ## Robustness and Flexibility
 ![g](/assets/8.png)
+<p align="center">
 ![g](/assets/9.png)
+</p>
 
 The proposed method demonstrates robustness and flexibility across different graph structures and sizes. This indicates that the method can adapt to various graph tasks and is not limited by the specific characteristics of the graphs.
 
