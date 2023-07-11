@@ -8,6 +8,7 @@ The proposed method outperforms existing methods across a variety of graph tasks
 
 ## Effectiveness of Meta-learning
 ![g](/assets/11.png)
+
 The results show that the introduction of meta-learning significantly improves the performance of the proposed method. This suggests that meta-learning can effectively learn better prompts for multi-task settings.
 
 ## Robustness and Flexibility
