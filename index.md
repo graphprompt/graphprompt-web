@@ -50,7 +50,7 @@ head, prompt learning aims to reformulate input data to fit the
 pretext. Many effective prompt methods are firstly proposed
 in the NLP area, including some hand-crafted prompts like GPT-3
 , discrete prompts like, and trainable prompts in the continuous spaces like. Despite significant results achieved,
-prompt-based methods have been rarely introduced in graph domains yet. We only find very few works like [GPPT](https://dl.acm.org/doi/abs/10.1145/3534678.3539249), trying to
+prompt-based methods have been rarely introduced in graph domains yet. We only find very few works like [GPPT](https://dl.acm.org/doi/abs/10.1145/3534678.3539249/), trying to
 design prompts for graphs. Unfortunately, most of them are very
 limited and are far from sufficient to meet the multi-task demands.</p>
 
