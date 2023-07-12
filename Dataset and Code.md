@@ -4,7 +4,7 @@
 
 </div>
 <p style="text-align:justify">We compare our methods with other approaches
-on five public datasets including Cora [34], CiteSeer [34], Reddit [8],
+on five public datasets including [Cora](https://linqs.org/datasets/#cora), CiteSeer [34], Reddit [8],
 Amazon [23], and Pubmed [34]. Detailed statistics are presented
 in Table 1 where the last column refers to the number of node
 classes. To conduct edge-level and graph-level tasks, we sample
