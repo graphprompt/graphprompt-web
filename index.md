@@ -9,7 +9,7 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
 
 Allinone is  a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
 
-{% include button.html text="Fork it" icon="github" link="https://anonymous.4open.science/r/mpg" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Fork it" icon="github" link="https://anonymous.4open.science/r/mpg](https://github.com/sheldonresearch/ProG" color="#0366d6" %} 
 ## Abstract
 <p style="text-align:justify">Recently, “pre-training and fine-tuning” has been adopted as a standard workflow for many graph tasks since it can take general graph
 knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
@@ -54,19 +54,5 @@ effectiveness of our framework.</p>
 ## Video 
 
 
-
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
 {% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
 
-
-## Acknowledgements
-<p style="text-align:justify">This research is supported in part by project #MMT-p2-23 of the
-Shun Hing Institute of Advanced Engineering, The Chinese University of Hong Kong, by grants from the Research Grant Council of
-the Hong Kong Special Administrative Region, China (No. CUHK
-14217622), NSFC (No. 61972087, No. 62206067, No. U1936205, No.
-62172300, No. 62202336), Guangzhou-HKUST(GZ) Joint Funding
-Scheme (No. 2023A03J0673), National Key R&D Program of China
-(No. 2022YFB3104300, No. 2021YFC3300300), the Fundamental Research Funds for the Central Universities (No. ZD-21-202101), and
-Open Research Projects of Zhejiang Lab (No. 2021KH0AB04). The
-first author, Dr. Xiangguo Sun, in particular, wants to thank
-his parents for their kind support during his tough period.</p>
