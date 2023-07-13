@@ -1,11 +1,15 @@
+---
+title: Datasets and Code
+---
+
 ## Datasets
 <div align="center">
 <img src="/assets/Dataset.png" />
 
 </div>
 <p style="text-align:justify">We compare our methods with other approaches
-on five public datasets including <a href="https://linqs.org/datasets/#cora">Cora</a>, CiteSeer [34], Reddit [8],
-Amazon [23], and Pubmed [34]. Detailed statistics are presented
+on five public datasets including <a href="https://linqs.org/datasets/#cora">Cora</a>, CiteSeer , Reddit ,
+Amazon, and Pubmed. Detailed statistics are presented
 in Table 1 where the last column refers to the number of node
 classes. To conduct edge-level and graph-level tasks, we sample
 edges and subgraphs from the original data where the label of an
