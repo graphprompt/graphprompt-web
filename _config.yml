@@ -124,11 +124,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Motivation
-  url: /elements/
+[^_^]: # (  url: /elements/
 - title: Blog
   url: /blog/
 - title: Method
-  url: /categories/
+  url: /categories/)
 - title: Dataset and Code
   url: /Dataset and Code/
 - title: Key Results
