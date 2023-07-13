@@ -6,6 +6,4 @@ title: Contact Us
 
 {% include site-form.html %}
 
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+
