@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Motivation
-[^_^]: # (  url: /elements/- title: Blog  url: /blog/- title: Method  url: /categories/ )
+[//]: # (  url: /elements/- title: Blog  url: /blog/- title: Method  url: /categories/ )
 - title: Dataset and Code
   url: /Dataset and Code/
 - title: Key Results
