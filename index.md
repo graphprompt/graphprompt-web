@@ -9,7 +9,7 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
 
 Allinone is  a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
 
-{% include button.html text="Fork it" icon="github" link="https://anonymous.4open.science/r/mpg](https://github.com/sheldonresearch/ProG" color="#0366d6" %} 
+{% include button.html text="Fork it" icon="github" link="https://github.com/sheldonresearch/ProG" color="#0366d6" %} 
 ## Abstract
 <p style="text-align:justify">Recently, “pre-training and fine-tuning” has been adopted as a standard workflow for many graph tasks since it can take general graph
 knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
