@@ -54,9 +54,9 @@ effectiveness of our framework.</p>
 ## Video 
 
 
-``` html
-{% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
-```
+
+{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
+
 
 ## Acknowledgements
 <p style="text-align:justify">This research is supported in part by project #MMT-p2-23 of the
