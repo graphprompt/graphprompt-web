@@ -51,9 +51,8 @@ different-level tasks to unified ones and further design an effective
 prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
 effectiveness of our framework.</p>
 
-## Video include
+## Video 
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
 
 ``` html
 {% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
