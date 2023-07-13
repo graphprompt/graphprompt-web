@@ -55,7 +55,7 @@ effectiveness of our framework.</p>
 
 
 
-{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
+{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}
 
 
 ## Acknowledgements
