@@ -1,6 +1,6 @@
 ---
 title: Datasets and Code
-layout: Datasets and Code
+layout: Dataset and Code
 ---
 
 ## Datasets
