@@ -38,7 +38,7 @@ title: Key Results
 ## Efficiency of Learning
 <div align="center">
 <img src="/assets/10.png" />
-<img src="/assets/Efficiency.png" />
+<img src="/assets/Efficiency.png" width="500px"/>
 </div>
 
 <p style="text-align:justify">The learning process of the proposed method is efficient. The authors show that the method can quickly converge to a good solution, which suggests that it can be applied to large-scale graph tasks. These results provide strong evidence for the effectiveness of the proposed method and its potential for improving the performance of GNNs in various tasks.</p>
