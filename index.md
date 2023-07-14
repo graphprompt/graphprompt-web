@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Allinone is  a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. "
 ---
 
-Allinone is  a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
+
 
 <div style="text-align: center;">
     {% include button.html text="Fork it" icon="github" link="https://github.com/sheldonresearch/ProG" color="#0366d6" %}
