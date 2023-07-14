@@ -133,13 +133,13 @@ navigation_header:
   url: http://arxiv.org/abs/2307.01504
 
 navigation_footer:
-- title: Created by BarristanYi
-  url: https://darn.es
+- title: Created by Chenyi Zi
+  url: https://github.com/Barristen
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  GitHub: https://github.com/sheldonresearch
   link: https://darn.es
   RSS: /feed.xml
 
