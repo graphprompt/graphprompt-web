@@ -1,6 +1,6 @@
 ---
 title: Key Results
-layout : Key Results
+layout : page
 ---
 
 ## Superior Performance
