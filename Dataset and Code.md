@@ -1,6 +1,7 @@
 ---
 title: Datasets and Code
 layout: page
+aside: false
 ---
 
 ## Datasets
