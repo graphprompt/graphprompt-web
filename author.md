@@ -1,6 +1,6 @@
 ---
 title: Co-author
-layout: author
+layout: page
 excerpt: "Co-author"
-aside: fasle
+aside: false
 ---
