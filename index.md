@@ -1,5 +1,5 @@
 ---
-title: All in One —— Multi-Task Prompting for GNN
+title: All in One: Multi-Task Prompting for GNN
 feature_text: |
   ## ProG
   We propose a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
@@ -13,6 +13,10 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
     {% include button.html text="Fork it" icon="github" link="https://github.com/sheldonresearch/ProG" color="#0366d6" %}
 </div>
 
+## Video 
+
+
+{% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
 ## Abstract
 <p style="text-align:justify">Recently, “pre-training and fine-tuning” has been adopted as a standard workflow for many graph tasks since it can take general graph
 knowledge to relieve the lack of graph annotations from each application. However, graph tasks with node level, edge level, and
@@ -54,8 +58,5 @@ different-level tasks to unified ones and further design an effective
 prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
 effectiveness of our framework.</p>
 
-## Video 
 
-
-{% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
 
