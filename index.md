@@ -1,5 +1,5 @@
 ---
-title: All in One: Multi-Task Prompting for GNN
+title: "All in One: Multi-Task Prompting for GNN"
 feature_text: |
   ## ProG
   We propose a multi-task prompting approach for graph models, which enables the smooth integration of NLP's prompting concept into graph tasks. 
