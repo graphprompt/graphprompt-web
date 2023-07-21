@@ -1,6 +1,5 @@
 ---
 title: Key Results
-layout : page
 aside: false
 ---
 
