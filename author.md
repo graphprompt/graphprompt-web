@@ -1,3 +1,6 @@
+---
+layout: author
+---
 
 ## About us
 
