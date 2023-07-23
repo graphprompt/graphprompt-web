@@ -97,7 +97,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo2.png" # Site logo, also used in jekyll-seo-tag
-description: "The authors of this paper are researchers and experts in the field of machine learning, specifically in the domain of graph representation learning and GNNs. They have likely conducted in-depth research, experiments, and analysis to propose and validate their multi-task prompting technique."
+description: "The authors of this paper are researchers and experts in the field of machine learning, specifically in the domain of graph representation learning and GNNs. "
 
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
