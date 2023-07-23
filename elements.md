@@ -17,6 +17,9 @@ aside: true
 
 
 [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
+[Jia Li](https://www1.se.cuhk.edu.hk/~hcheng/)
+[Xiangguo Sun](https://xgsun.mysxl.cn/)
+[Bo Liu](https://www1.se.cuhk.edu.hk/~hcheng/)
 
 {% include figure.html image="/assets/author/2.png" caption="Hong Cheng" position="right" width="200" height="700" %}
 
