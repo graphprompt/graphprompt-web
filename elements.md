@@ -26,16 +26,12 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 * An item
 
 
-> Co author
+> Co-author
 
 
 
 ### Image includes
 
-
-{% include figure.html image="/assets/author/1.png" caption="Right aligned image" position="right" width="200" height="700" %}
-
-{% include figure.html image="/assets/author/2.png" caption="Left aligned image" position="left" width="200" height="700" %}
 
 {% include figure.html image="/assets/author/3.png" caption="Right aligned image" position="right" width="200" height="700" %}
 
