@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+.team-member {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.team-member h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.team-member p {
+  color: #777;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* 添加更多样式和自定义颜色等，根据您的需要进行调整 */
