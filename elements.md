@@ -15,11 +15,10 @@ aside: true
 
 
 
-
-[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
-[Jia Li](https://www1.se.cuhk.edu.hk/~hcheng/)
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
-[Bo Liu](https://www1.se.cuhk.edu.hk/~hcheng/)
+[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
+[Jia Li](https://sites.google.com/view/lijia)
+[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
 
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="150" height="600" %}
 
