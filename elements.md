@@ -31,7 +31,7 @@ aside: true
 
 {% include figure.html image="/assets/author/5.png" caption="Bo Liu" position="left" width="200" height="700" %}
 
-{% include figure.html image="/assets/author/6.png" caption="Chenyi Zi" position="right" width="200" height="700" %}
+{% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi" position="right" width="200" height="700" %}
 
 
 
