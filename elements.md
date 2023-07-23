@@ -17,7 +17,7 @@ aside: true
 [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
 
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="200" height="700" %}
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="200" height="680" %}
 
 {% include figure.html image="/assets/author/1.png" caption="Xiangguo Sun" position="left" width="240" height="760" %}
 # s
