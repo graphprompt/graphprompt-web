@@ -33,7 +33,7 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 ### Image includes
 
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/author/1.png" caption="Right aligned image" position="right" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
