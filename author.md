@@ -1,6 +1,3 @@
----
-layout: team
----
 
 ## About us
 
