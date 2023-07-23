@@ -20,5 +20,5 @@ aside: true
 
 {% include figure.html image="/assets/author/3.png" caption="Right aligned image" position="right" width="200" height="700" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Left aligned image" position="left" width="200" height="700" %}
+{% include figure.html image="/assets/author/2.png" caption="Left aligned image" position="left" width="200" height="700" %}
 
