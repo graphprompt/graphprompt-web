@@ -23,7 +23,7 @@ aside: true
 
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="200" height="700" %}
 
-{% include figure.html image="/assets/author/1.png" caption="Xiangguo Sun" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/author/1.png" caption="Xiangguo Sun" position="left" width="260" height="760" %}
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li" position="right" width="220" height="730" %}
 
