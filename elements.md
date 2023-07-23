@@ -21,7 +21,7 @@ aside: true
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
 [Bo Liu](https://www1.se.cuhk.edu.hk/~hcheng/)
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="200" height="700" %}
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="150" height="600" %}
 
 {% include figure.html image="/assets/author/1.png" caption="Xiangguo Sun" position="left" width="260" height="760" %}
 
