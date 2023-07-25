@@ -20,7 +20,7 @@ aside: true
 <br>
 > Co-author
 [Jia Li](https://sites.google.com/view/lijia)
-[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)<p>
+[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)<br>
 
 
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu" position="left" width="225" height="600" %}
