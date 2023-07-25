@@ -47,11 +47,11 @@ of Hong Kong" position="right" width="225" height="600" %}
 
 
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu<pr>School of Computer Science and
-Engineering, Southeast University
+Engineering, Southeast University<br>
 Purple Mountain Laboratories" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li<pr>Data Science and Analytics Thrust,
-The Hong Kong University of Science
+The Hong Kong University of Science<br>
 and Technology (Guangzhou)" position="right" width="225" height="600" %}
 
 <br>
