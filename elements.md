@@ -15,7 +15,7 @@ aside: true
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="150" height="600" %}
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="225" height="600" %}
 
 
 
