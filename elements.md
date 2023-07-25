@@ -69,7 +69,10 @@ and Technology (Guangzhou)" position="right" width="225" height="600" %}
 > Co-author
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 <br>
-{% include figure.html image="/assets/author/5.png" caption="Jihong Guan" position="left" width="225" height="600" %}
+{% include figure.html image="/assets/author/5.png" caption="Jihong Guan<pr>
+Department of Computer Science and
+Technology, Tongji University<pr>
+jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi" position="right" width="300" height="800" %}
 
