@@ -20,7 +20,8 @@ aside: true
 <br>
 > Co-author
 [Jia Li](https://sites.google.com/view/lijia)
-[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)<br>
+[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
+<br>
 
 
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu" position="left" width="225" height="600" %}
@@ -29,7 +30,7 @@ aside: true
 
 > Co-author
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)<p>
-
+<br>
 {% include figure.html image="/assets/author/5.png" caption="Bo Liu" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi" position="right" width="300" height="800" %}
