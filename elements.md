@@ -13,9 +13,9 @@ aside: true
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
 [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
 
-{% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun" position="left" width="150" height="400" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="150" height="400" %}
 
 
 
