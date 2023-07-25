@@ -17,7 +17,7 @@ aside: true
 
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="225" height="600" %}
 
-<br>
+
 > Co-author
 [Jia Li](https://sites.google.com/view/lijia)
 [Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
