@@ -24,6 +24,7 @@ aside: true
 
 
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu" position="left" width="225" height="600" %}
+
 {% include figure.html image="/assets/author/3.png" caption="Jia Li" position="right" width="225" height="600" %}
 
 > Co-author
