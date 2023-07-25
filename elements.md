@@ -12,6 +12,7 @@ aside: true
 > Co-author
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
 [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
+> <br>
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun" position="left" width="225" height="600" %}
 
