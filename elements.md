@@ -18,7 +18,7 @@ aside: true
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="225" height="600" %}
 
 
-
+> Co-author
 [Jia Li](https://sites.google.com/view/lijia)
 [Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
 
@@ -26,6 +26,7 @@ aside: true
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li" position="right" width="225" height="600" %}
 
+> Co-author
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 
 {% include figure.html image="/assets/author/5.png" caption="Bo Liu" position="left" width="225" height="600" %}
