@@ -46,11 +46,11 @@ of Hong Kong" position="right" width="225" height="600" %}
 <br>
 
 
-{% include figure.html image="/assets/author/2.png" caption="Bo Liu<pr>School of Computer Science and
+{% include figure.html image="/assets/author/2.png" caption="Bo Liu<pr>School of Computer Science and<br>
 Engineering, Southeast University<br>
 Purple Mountain Laboratories" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/3.png" caption="Jia Li<pr>Data Science and Analytics Thrust,
+{% include figure.html image="/assets/author/3.png" caption="Jia Li<pr>Data Science and Analytics Thrust,<br>
 The Hong Kong University of Science<br>
 and Technology (Guangzhou)" position="right" width="225" height="600" %}
 
@@ -70,8 +70,8 @@ and Technology (Guangzhou)" position="right" width="225" height="600" %}
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 <br>
 {% include figure.html image="/assets/author/5.png" caption="Jihong Guan<pr>
-Department of Computer Science and
-Technology, Tongji University<pr>
+Department of Computer Science and<br>
+Technology, Tongji University<br>
 jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi" position="right" width="300" height="800" %}
