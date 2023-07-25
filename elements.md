@@ -30,7 +30,7 @@ aside: true
 {% include figure.html image="/assets/author/3.png" caption="Jia Li" position="right" width="225" height="600" %}
 
 > Co-author
-[Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)<p>
+[Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 <br>
 {% include figure.html image="/assets/author/5.png" caption="Bo Liu" position="left" width="225" height="600" %}
 
