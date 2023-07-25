@@ -22,7 +22,11 @@ Engineering, The Chinese University
 of Hong Kong
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng" position="right" width="225" height="600" %}
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>Department of Systems Engineering
+and Engineering Management, and
+Shun Hing Institute of Advanced
+Engineering, The Chinese University
+of Hong Kong" position="right" width="225" height="600" %}
 
 <br>
 <br>
@@ -42,9 +46,13 @@ xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 <br>
 
 
-{% include figure.html image="/assets/author/2.png" caption="Bo Liu" position="left" width="225" height="600" %}
+{% include figure.html image="/assets/author/2.png" caption="Bo Liu<pr>School of Computer Science and
+Engineering, Southeast University
+Purple Mountain Laboratories" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/3.png" caption="Jia Li" position="right" width="225" height="600" %}
+{% include figure.html image="/assets/author/3.png" caption="Jia Li<pr>Data Science and Analytics Thrust,
+The Hong Kong University of Science
+and Technology (Guangzhou)" position="right" width="225" height="600" %}
 
 <br>
 <br>
