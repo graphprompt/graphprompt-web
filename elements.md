@@ -16,15 +16,15 @@ aside: true
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun <br>
 Department of Systems Engineering
-and Engineering Management, and<br>
-Shun Hing Institute of Advanced
-Engineering, The Chinese University
+and <br>Engineering Management, and <br>
+Shun Hing Institute of Advanced<br>
+Engineering, The Chinese University<br>
 of Hong Kong<br>
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>Department of Systems Engineering
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>Department of Systems Engineering<br>
 and Engineering Management, and<br>
-Shun Hing Institute of Advanced
+Shun Hing Institute of Advanced<br>
 Engineering, The Chinese University<br>
 of Hong Kong" position="right" width="225" height="600" %}
 
