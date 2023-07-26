@@ -53,12 +53,12 @@ and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height=
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 [Jia Li](https://sites.google.com/view/lijia)
-[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
+<div class="container">
+  <p class="right-align">[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)</p>
+</div>
+
 > Co-author
 {% include figure.html image="/assets/author/5.png" caption="Jihong Guan, Professor<br>
 Tongji University <br>
@@ -67,6 +67,7 @@ jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
 {% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi, Mphil student<br>The Hong Kong University of Science<br>
 and Technology (Guangzhou)<br>barristanZi666@gmai.cn" position="right" width="300" height="800" %}
 
+<br>
 <br>
 <br>
 <br>
