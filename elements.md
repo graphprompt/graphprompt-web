@@ -55,7 +55,7 @@ Southeast University<br>
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
 The Hong Kong University of Science<br>
-and Technology (Guangzhou)" position="left"
+and Technology (Guangzhou)<br>jialee@ust.hk" position="left"
 <br>
 <br>
 <br>
