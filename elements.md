@@ -34,7 +34,8 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 <br>
 <br>
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
-[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
+<div style="text-align: right;">[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)</div>
+
 > Co-author
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu, Professor<br>
 Southeast University<br>bliu@seu.edu.cn" position="right" width="225" height="600" %}
@@ -53,11 +54,10 @@ and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height=
 <br>
 <br>
 <br>
+<br>
 
 [Jia Li](https://sites.google.com/view/lijia)
-<div class="container">
-  <p class="right-align">[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)</p>
-</div>
+<div style="text-align: right;">[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)</div>
 
 > Co-author
 {% include figure.html image="/assets/author/5.png" caption="Jihong Guan, Professor<br>
