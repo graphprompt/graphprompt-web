@@ -27,10 +27,7 @@ of Hong Kong" position="right" width="225" height="600" %}
 <br>
 <br>
 [{% include icon.html id="github" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
-[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
-[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
-[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
-[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
 <br>
 <br>
 <br>
