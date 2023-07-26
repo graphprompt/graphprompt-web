@@ -10,7 +10,6 @@ aside: true
 
 
 > Co-author
-
 > <br>
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun, Postdoctoral research fellow<br>
