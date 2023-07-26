@@ -26,8 +26,6 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 <br>
 <br>
 <br>
-[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/)
-[{% include icon.html id="link" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 <br>
 <br>
 <br>
