@@ -38,6 +38,7 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 
 > Co-author
 > <br>
+
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu, Professor<br>
 Southeast University<br>bliu@seu.edu.cn" position="right" width="225" height="600" %}
 
@@ -62,6 +63,7 @@ and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height=
 
 > Co-author>
 > <br>
+
 {% include figure.html image="/assets/author/5.png" caption="Jihong Guan, Professor<br>
 Tongji University <br>
 jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
