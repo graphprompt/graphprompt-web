@@ -26,8 +26,8 @@ of Hong Kong" position="right" width="225" height="600" %}
 <br>
 <br>
 <br>
-[{% include icon.html id="github" title="Personal Page" %}](https://xgsun.mysxl.cn/)
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
+[{% include icon.html id="link" title="Personal Page" %}](https://xgsun.mysxl.cn/)
+[{% include icon.html id="link" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 <br>
 <br>
 <br>
@@ -45,7 +45,13 @@ of Hong Kong" position="right" width="225" height="600" %}
 > Co-author
 [Jia Li](https://sites.google.com/view/lijia)
 [Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
+<br>
+{% include figure.html image="/assets/author/2.png" caption="Bo Liu, Professor<br>
+Southeast University position="right" width="225" height="600" %}
 
+{% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
+The Hong Kong University of Science<br>
+and Technology (Guangzhou)<br>jialee@ust.hk" position="left"
 <br>
 <br>
 <br>
