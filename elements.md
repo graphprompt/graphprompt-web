@@ -45,7 +45,7 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 [Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
 <br>
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu, Professor<br>
-Southeast University position="right" width="225" height="600" %}
+Southeast University<br>bliu@seu.edu.cn" position="right" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
 The Hong Kong University of Science<br>
