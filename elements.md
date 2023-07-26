@@ -15,8 +15,8 @@ aside: true
 > <br>
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun <br>
-The Chinese University<br>
-of Hong Kong<br>
+Postdoctoral research fellow<br>
+The Chinese University of Hong Kong<br>
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>The Chinese University<br>
