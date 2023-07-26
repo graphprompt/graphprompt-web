@@ -15,17 +15,11 @@ aside: true
 > <br>
 
 {% include figure.html image="/assets/author/1.jpg" caption="Xiangguo Sun <br>
-Department of Systems Engineering
-and <br>Engineering Management, and <br>
-Shun Hing Institute of Advanced<br>
-Engineering, The Chinese University<br>
+The Chinese University<br>
 of Hong Kong<br>
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>Department of Systems Engineering<br>
-and Engineering Management, and<br>
-Shun Hing Institute of Advanced<br>
-Engineering, The Chinese University<br>
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>The Chinese University<br>
 of Hong Kong" position="right" width="225" height="600" %}
 
 <br>
@@ -50,11 +44,11 @@ of Hong Kong" position="right" width="225" height="600" %}
 [Jia Li](https://sites.google.com/view/lijia)
 [Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)
 <br>
-{% include figure.html image="/assets/author/2.png" caption="Bo Liu <br> School of Computer Science and<br>
-Engineering, Southeast University<br>
-Purple Mountain Laboratories" position="left" width="225" height="600" %}
+{% include figure.html image="/assets/author/2.png" caption="Bo Liu <br>
+Southeast University<br>
+" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/3.png" caption="Jia Li <br> Data Science and Analytics Thrust,<br>
+{% include figure.html image="/assets/author/3.png" caption="Jia Li <br> 
 The Hong Kong University of Science<br>
 and Technology (Guangzhou)" position="right" width="225" height="600" %}
 
@@ -78,8 +72,7 @@ and Technology (Guangzhou)" position="right" width="225" height="600" %}
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 <br>
 {% include figure.html image="/assets/author/5.png" caption="Jihong Guan<br>
-Department of Computer Science and <br>
-Technology, Tongji University <br>
+Tongji University <br>
 jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/6.jpg" caption="Chenyi Zi" position="right" width="300" height="800" %}
