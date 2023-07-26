@@ -19,7 +19,7 @@ Postdoctoral research fellow<br>
 The Chinese University of Hong Kong<br>
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/4.png" caption="Hong Cheng <br>The Chinese University<br>
+{% include figure.html image="/assets/author/4.png" caption="Hong Cheng, Professor<br>The Chinese University<br>
 of Hong Kong" position="right" width="225" height="600" %}
 
 <br>
@@ -51,12 +51,11 @@ of Hong Kong" position="right" width="225" height="600" %}
 <br>
 {% include figure.html image="/assets/author/2.png" caption="Bo Liu <br>
 Southeast University<br>
-" position="left" width="225" height="600" %}
+" position="right" width="225" height="600" %}
 
-{% include figure.html image="/assets/author/3.png" caption="Jia Li <br> 
+{% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
 The Hong Kong University of Science<br>
-and Technology (Guangzhou)" position="right" width="225" height="600" %}
-
+and Technology (Guangzhou)" position="left"
 <br>
 <br>
 <br>
@@ -76,7 +75,7 @@ and Technology (Guangzhou)" position="right" width="225" height="600" %}
 > Co-author
 [Jihong Guan](https://see.tongji.edu.cn/info/1376/10297.htm)
 <br>
-{% include figure.html image="/assets/author/5.png" caption="Jihong Guan<br>
+{% include figure.html image="/assets/author/5.png" caption="Jihong Guan, Professor<br>
 Tongji University <br>
 jhguan@tongji.edu.cn" position="left" width="225" height="600" %}
 
