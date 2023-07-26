@@ -57,9 +57,10 @@ and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height=
 <br>
 <br>
 <br>
-
+<br>
 [Jia Li](https://sites.google.com/view/lijia)
-<div style="text-align: right;">[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)</div>
+<span style="float: right;">[Bo Liu](https://cse.seu.edu.cn/2019/0401/c23024a268340/page.psp)</span>
+
 
 > Co-author>
 > <br>
