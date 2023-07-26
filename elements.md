@@ -20,7 +20,7 @@ The Chinese University of Hong Kong<br>
 xiangguosun@cuhk.edu.hk" position="left" width="225" height="600" %}
 
 {% include figure.html image="/assets/author/4.png" caption="Hong Cheng, Professor<br>The Chinese University<br>
-of Hong Kong" position="right" width="225" height="600" %}
+of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600" %}
 
 <br>
 <br>
