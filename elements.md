@@ -34,8 +34,7 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 <br>
 <br>
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
-<div style="text-align: right;">[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)</div>
-
+<span style="float: right;">[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)</span>
 > Co-author
 > <br>
 
