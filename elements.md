@@ -33,6 +33,7 @@ of Hong Kong<br>hcheng@se.cuhk.edu.hk" position="right" width="225" height="600"
 <br>
 <br>
 <br>
+<br>
 [Xiangguo Sun](https://xgsun.mysxl.cn/)
 <span style="float: right;">[Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)</span>
 > Co-author
@@ -44,6 +45,7 @@ Southeast University<br>bliu@seu.edu.cn" position="right" width="225" height="60
 {% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
 The Hong Kong University of Science<br>
 and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height="600" %}
+<br>
 <br>
 <br>
 <br>
