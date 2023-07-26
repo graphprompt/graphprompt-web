@@ -49,7 +49,7 @@ Southeast University<br>bliu@seu.edu.cn" position="right" width="225" height="60
 
 {% include figure.html image="/assets/author/3.png" caption="Jia Li, Assistant Professor<br> 
 The Hong Kong University of Science<br>
-and Technology (Guangzhou)<br>jialee@ust.hk" position="left"
+and Technology (Guangzhou)<br>jialee@ust.hk" position="left" width="225" height="600" %}
 <br>
 <br>
 <br>
