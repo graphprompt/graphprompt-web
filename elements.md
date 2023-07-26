@@ -26,8 +26,8 @@ of Hong Kong" position="right" width="225" height="600" %}
 <br>
 <br>
 <br>
-[{% include icon.html id="github" title="Personal Page" %}](https://xgsun.mysxl.cn/){% endraw %}
-[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
+[{% include icon.html id="github" title="Personal Page" %}](https://xgsun.mysxl.cn/)
+[{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 <br>
 <br>
 <br>
