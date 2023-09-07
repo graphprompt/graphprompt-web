@@ -13,9 +13,9 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
     {% include button.html text="Fork it" icon="github" link="https://github.com/sheldonresearch/ProG" color="#0366d6" %}
 </div>
 
-## Video 
+## YouTube Video 
 {% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
-
+## Bilibili Video 
 <iframe src="//player.bilibili.com/player.html?aid=362198139&bvid=BV1q94y1k7nF&cid=1231403346&p=1"  width="100%" height="100%" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Abstract
