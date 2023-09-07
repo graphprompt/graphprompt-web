@@ -16,7 +16,7 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
 ## YouTube Video 
 {% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
 ## Bilibili Video 
-<iframe src="//player.bilibili.com/player.html?aid=362198139&bvid=BV1q94y1k7nF&cid=1231403346&p=1" width="100%"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=362198139&bvid=BV1q94y1k7nF&cid=1231403346&p=1" width="100%" height="100" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Abstract
 <p style="text-align:justify">Recently, “pre-training and fine-tuning” has been adopted as a standard workflow for many graph tasks since it can take general graph
