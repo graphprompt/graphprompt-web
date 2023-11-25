@@ -13,40 +13,7 @@ excerpt: "Allinone is  a multi-task prompting approach for graph models, which e
     {% include button.html text="Fork it" icon="github" link="https://github.com/sheldonresearch/ProG" color="#0366d6" %}
 </div>
 
-## Citation
 
-bibtex
-
-```
-@inproceedings{sun2023all,
-	title = {All in {One}: {Multi}-{Task} {Prompting} for {Graph} {Neural} {Networks}},
-	booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-	author = {Sun, Xiangguo and Cheng, Hong and Li, Jia and Liu, Bo and Guan, Jihong},
-	year = {2023},
-	pages = {2120--2131},
-isbn = {9798400701030},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-location = {Long Beach, CA, USA},
-series = {KDD '23}
-url = {https://doi.org/10.1145/3580305.3599256},
-doi = {10.1145/3580305.3599256}}
-
-@article{gong2023prompt,
-  title={Prompt Tuning for Multi-View Graph Contrastive Learning},
-  author={Gong, Chenghua and Li, Xiang and Yu, Jianxiang and Yao, Cheng and Tan, Jiaqi and Yu, Chengcheng and Yin, Dawei},
-  journal={arXiv preprint arXiv:2310.10362},
-  year={2023}
-}
-
-@article{ge2023enhancing,
-  title={Enhancing Graph Neural Networks with Structure-Based Prompt},
-  author={Ge, Qingqing and Zhao, Zeyuan and Liu, Yiding and Cheng, Anfeng and Li, Xiang and Wang, Shuaiqiang and Yin, Dawei},
-  journal={arXiv preprint arXiv:2310.17394},
-  year={2023}
-}
-
-```
 ## YouTube Video 
 {% include video2.html id="MFL0ynk1BKs" title="Desired Video Title" %}
 ## Bilibili Video 
@@ -93,5 +60,41 @@ different-level tasks to unified ones and further design an effective
 prompt graph with a meta-learning technique. We extensively evaluate the performance of our method. Experiments demonstrate the
 effectiveness of our framework.</p>
 
+## Citation
+
+bibtex
+
+```
+@inproceedings{sun2023all,
+	title = {All in {One}: {Multi}-{Task} {Prompting} for {Graph} {Neural} {Networks}},
+	booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
+	author = {Sun, Xiangguo and Cheng, Hong and Li, Jia and Liu, Bo and Guan, Jihong},
+	year = {2023},
+	pages = {2120--2131},
+isbn = {9798400701030},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+location = {Long Beach, CA, USA},
+series = {KDD '23}
+url = {https://doi.org/10.1145/3580305.3599256},
+doi = {10.1145/3580305.3599256}}
+```
+```
+@article{gong2023prompt,
+  title={Prompt Tuning for Multi-View Graph Contrastive Learning},
+  author={Gong, Chenghua and Li, Xiang and Yu, Jianxiang and Yao, Cheng and Tan, Jiaqi and Yu, Chengcheng and Yin, Dawei},
+  journal={arXiv preprint arXiv:2310.10362},
+  year={2023}
+}
+```
+```
+@article{ge2023enhancing,
+  title={Enhancing Graph Neural Networks with Structure-Based Prompt},
+  author={Ge, Qingqing and Zhao, Zeyuan and Liu, Yiding and Cheng, Anfeng and Li, Xiang and Wang, Shuaiqiang and Yin, Dawei},
+  journal={arXiv preprint arXiv:2310.17394},
+  year={2023}
+}
+
+```
 
 
