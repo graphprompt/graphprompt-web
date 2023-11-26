@@ -59,23 +59,7 @@ series = {KDD '23}
 url = {https://doi.org/10.1145/3580305.3599256},
 doi = {10.1145/3580305.3599256}}
 ```
-```
-@article{gong2023prompt,
-  title={Prompt Tuning for Multi-View Graph Contrastive Learning},
-  author={Gong, Chenghua and Li, Xiang and Yu, Jianxiang and Yao, Cheng and Tan, Jiaqi and Yu, Chengcheng and Yin, Dawei},
-  journal={arXiv preprint arXiv:2310.10362},
-  year={2023}
-}
-```
-```
-@article{ge2023enhancing,
-  title={Enhancing Graph Neural Networks with Structure-Based Prompt},
-  author={Ge, Qingqing and Zhao, Zeyuan and Liu, Yiding and Cheng, Anfeng and Li, Xiang and Wang, Shuaiqiang and Yin, Dawei},
-  journal={arXiv preprint arXiv:2310.17394},
-  year={2023}
-}
 
-```
 ## Contributions
 
 - We unify the prompt format in the language area and graph area, and further propose an effective graph prompt for multi-task settings
