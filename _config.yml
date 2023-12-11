@@ -135,7 +135,7 @@ navigation_header:
 - title: Co-author
   url: /elements/
 - title: See our paper
-  url: http://arxiv.org/abs/2307.01504
+  url: https://github.com/sheldonresearch/ProG/blob/Barristen-patch-1/paper.pdf
 
 navigation_footer:
 - title: Created by Chenyi Zi
